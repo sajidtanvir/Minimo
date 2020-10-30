@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+width: 90%;
+margin: auto;
+overflow: hidden;
+padding: 50px 0;
+}
+.logo{
+width: 20%;
+float: left;
+}
+nav{
+width: 50%;
+float: right;
+overflow: hidden;
+}
+nav ul{
+list-style: none;
+float: right;
+overflow: hidden;
+}
+nav ul li{
+    float: left;
+    margin-left: 120px;
+    color: #626262;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.banner{
+width: 90%;
+margin: auto;
+}
+.banner img{
+width: 100%;
+}
+.photodiary{
+
+    width: 80%;
+    margin: auto;
+    padding: 50px 0;
+}
+.photodiary h5{
+
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.photodiary h1{
+
+    color: #626262;
+    margin: 20px 0;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.photodiary p{
+    
+    color: #626262;
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
